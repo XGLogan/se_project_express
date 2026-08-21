@@ -1,4 +1,4 @@
-# WTWR (What to Wear?) — Back End
+# WTWR — Back End
 
 This back-end project provides the server-side API for the WTWR application. It supports user registration and login with JWT-based authorization, user profile management, and CRUD operations for clothing items, including liking and unliking items.
 
@@ -10,7 +10,7 @@ This back-end project provides the server-side API for the WTWR application. It 
 
 ## Project Pitch Video
 
-Check out [this video](https://drive.google.com/file/d/1WmQFQ08_gdiuC19S37w4qL6gtRCs-Gf1/view?usp=drive_link), where I describe my project and some challenges I faced while building it.
+Check out [this video](https://drive.google.com/file/d/1sFptp4kyFfOhT2qFZKPCfQX15VRkTi9G/view?usp=sharing), where I describe my project and some challenges I faced while building it.
 
 ## Features
 
